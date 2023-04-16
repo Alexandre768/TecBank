@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "800209790080",
+    "project_id": "tecbank-6bcd1",
+    "storage_bucket": "tecbank-6bcd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800209790080:android:81bc94718a3e8ccc257265",
+        "android_client_info": {
+          "package_name": "com.example.banconovo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800209790080-5e0l0acktrvl34pvga7t7opqvvssk1j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVNWVUdBHuNi3Xdhweke7NQlD4M-LFTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800209790080-5e0l0acktrvl34pvga7t7opqvvssk1j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800209790080:android:407dbaa2a9d2c781257265",
+        "android_client_info": {
+          "package_name": "com.example.tecbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800209790080-5e0l0acktrvl34pvga7t7opqvvssk1j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVNWVUdBHuNi3Xdhweke7NQlD4M-LFTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800209790080-5e0l0acktrvl34pvga7t7opqvvssk1j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
